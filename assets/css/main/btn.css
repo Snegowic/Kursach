@@ -1,0 +1,47 @@
+@media screen and (min-width:1200px) { 
+    .cat__btn {
+        padding: 10px;
+        text-align: center;
+        font-size: 24px;
+        background-color: black;
+        color: white;
+        border-radius: 15px;
+        border: 1px solid black;
+        font-weight: 400;
+        transition: .5s;
+    }
+
+    .cat__btn:hover{
+        background-color: #fff;
+        color: black;
+        transition: .5s;
+    }
+
+    .feet__btn {
+        color: black;
+        font-size: 20px;
+        font-weight: 400;
+        padding: 15px 20px;
+        border-radius: 15px;
+        border: 1px solid black;
+        background-color: #FF9000;
+        transition: .5s;
+    }
+
+    .feet__btn:hover{
+        background-color: black;
+        color: #FF9000;
+        transition: .5s;
+    }
+
+    .admin__btn{
+        color: black;
+        background-color: #FF9000;
+        border: 1px solid black;
+        border-radius: 15px;
+        padding: 10px 15px;
+        position: absolute;
+        right: 200px;
+        bottom: 0;
+    }
+}

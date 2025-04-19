@@ -1,0 +1,9 @@
+@media screen and (min-width:1200px) { 
+    .feetback .input{
+        width: 520px;
+        border-radius: 15px;
+        padding: 20px;
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+}
