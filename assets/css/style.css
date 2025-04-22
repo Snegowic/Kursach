@@ -1,23 +1,23 @@
 /* Блоки по отдельности */
-@import url(/assets/css/main/header.css);
-@import url(/assets/css/main/banner.css);
-@import url(/assets/css/main/catalog.css);
-@import url(/assets/css/main/adv.css);
-@import url(/assets/css/main/rewiev.css);
-@import url(/assets/css/main/feetback.css);
-@import url(/assets/css/main/footer.css);
+@import url(assets/css/main/header.css);
+@import url(assets/css/main/banner.css);
+@import url(assets/css/main/catalog.css);
+@import url(assets/css/main/adv.css);
+@import url(assets/css/main/rewiev.css);
+@import url(assets/css/main/feetback.css);
+@import url(assets/css/main/footer.css);
 
 /* Кнопки и ссылки */
-@import url(/assets/css/main/link.css);
-@import url(/assets/css/main/btn.css);
-@import url(/assets/css/main/input.css);
+@import url(assets/css/main/link.css);
+@import url(assets/css/main/btn.css);
+@import url(assets/css/main/input.css);
 
 /* Страницы */
-@import url(/assets/css/main/admin.css);
-@import url(/assets/css/main/login.css);
-@import url(/assets/css/main/profile.css);
-@import url(/assets/css/main/registr.css);
-@import url(/assets/css/main/product.css);
+@import url(assets/css/main/admin.css);
+@import url(assets/css/main/login.css);
+@import url(assets/css/main/profile.css);
+@import url(assets/css/main/registr.css);
+@import url(assets/css/main/product.css);
 
 *{
     padding: 0;
